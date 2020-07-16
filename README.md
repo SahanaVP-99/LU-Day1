@@ -1,2 +1,2 @@
-# LU-Day1
-Day-1 Assignments
+# LU-Day2
+Day-2 Assignments
